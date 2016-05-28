@@ -1,0 +1,28 @@
+[*]
+[*] GTKWave Analyzer v3.3.68 (w)1999-2016 BSI
+[*] Sat May 28 20:47:51 2016
+[*]
+[dumpfile] "/Users/CHIHCHIEN/Desktop/EE371/Lab4/Serial2Parallel.vcd"
+[dumpfile_mtime] "Sat May 28 20:47:51 2016"
+[dumpfile_size] 1203130368
+[savefile] "/Users/CHIHCHIEN/Desktop/EE371/Lab4/Parallel2Serial.gtkw"
+[timestart] 0
+[size] 1920 987
+[pos] -1 -1
+*-5.000000 26 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] Serial2Parallel_tb.
+[sst_width] 193
+[signals_width] 150
+[sst_expanded] 1
+[sst_vpaned_height] 295
+@28
+Serial2Parallel_tb.s2p0.clk
+Serial2Parallel_tb.s2p0.reset
+Serial2Parallel_tb.s2p0.en
+Serial2Parallel_tb.s2p0.charReceive
+Serial2Parallel_tb.s2p0.serin
+Serial2Parallel_tb.s2p0.bufferreg[7:0]
+@29
+Serial2Parallel_tb.s2p0.parin[7:0]
+[pattern_trace] 1
+[pattern_trace] 0
